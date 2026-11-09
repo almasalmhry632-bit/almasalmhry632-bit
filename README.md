@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Almasa 💜
 
-<!--
-**almasalmhry632-bit/almasalmhry632-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Application Developer | Flutter & Dart
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a programming graduate passionate about building elegant, practical, and user-friendly applications.
+
+👩🏻‍💻 About Me
+
+- 🎓 Programming Graduate
+- 📱 Interested in Mobile App Development
+- 💙 Currently working with Flutter and Dart
+- 🛠️ Building projects and improving my development skills
+- ✨ I believe every great application starts with a simple idea.
+
+🧰 Technologies & Tools
+
+- Flutter
+- Dart
+- C#
+- Windows Forms
+- Git & GitHub
+- VS Code
+
+🚀 Featured Projects
+
+- Calculator Pro 3.0 — A Flutter calculator application.
+- Bank System — A C# banking system project.
+- Calculator App — A desktop calculator built with C#.
+
+💜 My Goal
+
+To keep learning, building, and turning ideas into useful applications.
