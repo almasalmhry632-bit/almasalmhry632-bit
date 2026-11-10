@@ -32,3 +32,25 @@ I'm a programming graduate passionate about building elegant, practical, and use
 💜 My Goal
 
 To keep learning, building, and turning ideas into useful applications.
+
+
+---
+
+## 🧮 Calculator Pro 3.0
+
+A Flutter calculator application.
+
+![Calculator 5](5.jpeg)
+![Calculator 6](6.jpeg)
+![Calculator 7](7.jpeg)
+
+---
+
+## 💜 Purple Ink
+
+A Flutter-based novel reading application currently under development.
+
+![Purple Ink 1](1.jpeg)
+![Purple Ink 2](2.jpeg)
+![Purple Ink 3](3.jpeg)
+![Purple Ink 4](4.jpeg)
